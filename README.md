@@ -11,6 +11,7 @@ Para utilizar script de organizacion de carpetas, dirijase al directorio ./Prime
 py ScripCarpetas.py
 
 > [!TIP]
-> Si se encuentra en un sistema windows, utilice pyen lugar de python3
+> Si se encuentra en un sistema windows, utilice py en lugar de python3
 
-
+## EL CONCEJO HA HABLADO
+![alt text](<Imagen de WhatsApp 2024-10-02 a las 18.13.05_048f2d07.jpg>)
