@@ -1,7 +1,8 @@
 # Errores del codijo
 En este caso se mostrara un codijo que tenia errores y que fueron resueltos por el Estudiante:
 ## Errores de Sintaxis
-los principlaes errores fueron 
+los principlaes errores fueron
+ 
 ! NO habia ":" al final del "if", "elif", "else"
 
 ! Los datos del usuario estaba siendo guardados como un string 
@@ -15,6 +16,7 @@ los principlaes errores fueron
 num = int(input("Introduce un número: "))
 
 ´´´
+
 ! Se agrejo los "=" faltantes
 
 
