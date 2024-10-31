@@ -1,10 +1,10 @@
-## Errores del codijo
+# Errores del codigo
 En este caso se mostrara un codijo que tenia errores y que fueron resueltos por el Estudiante:
-# Errores de Sintaxis
+## Errores de Sintaxis
 los principlaes errores fueron 
 ! NO habia ":" al final del "if", "elif", "else"
 ! Los datos del usuario estaba siendo guardados como un string 
-# Solucion
+## Solucion
 ! Se agrego los ":" faltantes 
 ! Se cambio agrgo un int:
 ´´´
@@ -16,5 +16,5 @@ los principlaes errores fueron
 
 
 
-# NOOT NOOT 
-![alt text ](<c:\Users\Usuario\OneDrive\Escritorio\noot _noot _meme.jpg>)
+### NOOT NOOT 
+![alt text ](<noot _noot _meme.jpg>)
