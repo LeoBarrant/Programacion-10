@@ -3,7 +3,9 @@ En este caso se mostrara un codijo que tenia errores y que fueron resueltos por 
 ## Errores de Sintaxis
 los principlaes errores fueron 
 ! NO habia ":" al final del "if", "elif", "else"
+
 ! Los datos del usuario estaba siendo guardados como un string 
+
 ! Faltaban "="
 ## Solucion
 ! Se agrejo los ":" faltantes 
